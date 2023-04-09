@@ -4,12 +4,12 @@ File Chargement App is a simple Java application that allows you to load and dis
 ## Installation
 To use this app, you need to have Java installed on your computer. You can download the latest version of Java from the official Java website.
 
-Once you have Java installed, you can download the FileChargementApp.jar file from the releases section of this GitHub repository.
+Once you have Java installed, you can download the FileChargementApp.java file from the releases section of this GitHub repository.
 
 ## Usage
 To use the app, follow these steps:
 
-Double-click on the FileChargementApp.jar file to launch the app.
+Double-click on the FileChargementApp.java file to launch the app.
 Click on the "Choose File" button to select the text file that you want to load.
 Click on the "Load File" button to load the contents of the file into the app.
 The app will display the contents of the file in a text area, with each line of the file displayed on a separate line.
